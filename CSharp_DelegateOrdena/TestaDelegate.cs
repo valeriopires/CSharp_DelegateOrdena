@@ -11,8 +11,9 @@ namespace CSharp_DelegateOrdena
             nomes[0] = new NomeCompleto("Rafael", "Monteiro");
             nomes[1] = new NomeCompleto("Jessica", "Brumado");
             nomes[2] = new NomeCompleto("Janice", "Santos");
-            nomes[3] = new NomeCompleto("Jose", "Silveira");
+            nomes[3] = new NomeCompleto("Daniel", "Silveira");
             nomes[4] = new NomeCompleto("Armando", "Nascimento");
+            nomes[5] = new NomeCompleto("Mauro", "Bones");
         }
 
         public void Ordenar(Comparador comparar)
